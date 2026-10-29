@@ -51,8 +51,10 @@ namespace Dhyana
 
 const int PIXEL_SIZE_WIDTH_MICRON  = 11; // pixel size is 11 micron
 const int PIXEL_SIZE_HEIGHT_MICRON = 11; // pixel size is 11 micron
-const int PIXEL_NB_WIDTH  = 2048;
-const int PIXEL_NB_HEIGHT = 2048;
+//const int PIXEL_NB_WIDTH  = 2048;
+//const int PIXEL_NB_HEIGHT = 2048;
+const int PIXEL_NB_WIDTH  = 4096;
+const int PIXEL_NB_HEIGHT = 4096;
 
 class BufferCtrlObj;
 class CSoftTriggerTimer;
